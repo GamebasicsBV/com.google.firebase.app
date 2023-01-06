@@ -21,7 +21,7 @@ PluginImporter:
     Editor:
       enabled: 1
       settings:
-        CPU: AnyCPU
+        CPU: x86_64
         DefaultValueInitialized: true
         OS: AnyOS
     Linux:
@@ -47,7 +47,7 @@ PluginImporter:
     OSXUniversal:
       enabled: 1
       settings:
-        CPU: AnyCPU
+        CPU: x86_64
     Web:
       enabled: 0
       settings: {}
@@ -67,11 +67,6 @@ PluginImporter:
       settings:
         CPU: AnyCPU
     iOS:
-      enabled: 0
-      settings:
-        CompileFlags:
-        FrameworkDependencies:
-    tvOS:
       enabled: 0
       settings:
         CompileFlags:
